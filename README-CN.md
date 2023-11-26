@@ -1,3 +1,5 @@
+[中文](README-CN.md) |  [English](README.md)
+
 ## VOC转YOLO格式与YOLO转VOC格式
 
 ### 使用方法:

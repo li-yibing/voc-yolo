@@ -1,3 +1,7 @@
+
+[中文](README-CN.md) |  [English](README.md)
+<br>
+
 ## Convert YOLO to Pascal VOC format or Pascal to YOLO format
 
 ### Usage:
